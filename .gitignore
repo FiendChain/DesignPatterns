@@ -1,5 +1,10 @@
+# C
 *.o
 *.exe
 *.a
 *.so
 main
+# Java
+*.class
+# vim
+.session.vim
